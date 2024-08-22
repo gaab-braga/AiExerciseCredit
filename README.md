@@ -1,1 +1,1 @@
-# FisrtProjectPythhonAI
+# AiExercie
